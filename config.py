@@ -40,12 +40,12 @@ GIT_TOKEN = getenv("GIT_TOKEN")
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL",
-    "https://t.me/ArchonNetwork"
+    "https://t.me/yukkimusichome"
 )
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_CHAT",
-    "https://t.me/ArchonCare"
+    "https://t.me/The_Hidden_Worlds"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv(
