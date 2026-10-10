@@ -76,7 +76,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                icon_custom_emoji_id="5217820936002097532",
+                icon_custom_emoji_id="5422728328136129501",
                 user_id=config.OWNER_ID,
                 style=s[4],
             ),
