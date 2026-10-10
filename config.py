@@ -45,7 +45,7 @@ SUPPORT_CHANNEL = getenv(
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_CHAT",
-    "https://t.me/The_Hidden_Worlds"
+    "https://t.me/yukkiHelpDesk"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv(
